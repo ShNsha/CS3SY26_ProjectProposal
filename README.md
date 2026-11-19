@@ -3,19 +3,19 @@
 
 ## Project Proposal Template:
 cvbbbc
-### Project Title or Name of the Application	:
+### Project Title or Name of the Application	: BlackJack CHAGOAD edition
 ### Section			   	      : 9 - Rubidium
 ### Group Members			    : ABAD, Shan Mikael Jorelle R., CHAVEZ, Zachary Karl N., GO, Keith Ashton L.
 ### Date (Proposal Date)  : Nov 5, 2026
 fdfhdfhfshsdhfhhtrthdfh
-### Project Description:
+### Project Description: BlackJack CHAGOAD edition, a simple game of blackjack, this includes two players, the dealer which you have to go against for the closest or the exact number of a blackjack (21) 
 
 - A brief summary of the project description and the need for it.
 
 - Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
 
 - Include the description as well of your target demographics as the user of your application. 
-
+ 
 - The description is then followed by the class diagram, depicting clearly what was described.
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
