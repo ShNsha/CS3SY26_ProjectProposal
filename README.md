@@ -4,8 +4,8 @@
 ## Project Proposal Template:
 cvbbbc
 ### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
+### Section			   	      : 9 - Rubidium
+### Group Members			    : ABAD, Shan Mikael Jorelle R., CHAVEZ, Zachary Karl N., GO, Keith Ashton L.
 ### Date (Proposal Date)  : Nov 5, 2026
 fdfhdfhfshsdhfhhtrthdfh
 ### Project Description:
