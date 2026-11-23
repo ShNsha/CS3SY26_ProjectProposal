@@ -1,4 +1,4 @@
-<img width="457" height="582" alt="Screenshot 2026-11-23 at 6 10 39 PM" src="https://github.com/user-attachments/assets/b414c746-717a-4a9c-969c-117de0e0ceba" /> # CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
+# CS3SY26_ProjectProposal by Aline Teresa Mendoza from CS Unit of PSHS
 
 
 ## Project Proposal Template:
@@ -105,8 +105,8 @@ At the end of each round, the application will display:
 The target users of Blackjack CHAGOAD Edition are students for statistics and casual card game players, particularly those who enjoy simple games with strategy, decision making, and probability understanding. The application is designed for beginners who want an easy to understand Blackjack experience with an additional gameplay feature.
 
 - The description is then followed by the class diagram, depicting clearly what was described.
-Google drive link to image of the class diagram:
-https://drive.google.com/file/d/1DMB-_N42dn2fNdjuk_RaOZkhxRTR7NWI/view?usp=sharing
+
+<img width="457" height="582" alt="Screenshot 2026-11-23 at 6 10 39 PM" src="https://github.com/user-attachments/assets/b414c746-717a-4a9c-969c-117de0e0ceba" /> 
 
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
