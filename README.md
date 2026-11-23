@@ -109,10 +109,6 @@ The target users of Blackjack CHAGOAD Edition are students for statistics and ca
 <img width="457" height="582" alt="Screenshot 2026-11-23 at 6 10 39 PM" src="https://github.com/user-attachments/assets/b414c746-717a-4a9c-969c-117de0e0ceba" /> 
 
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
-
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
-
 ### Goals:
 
 The long-term goal of Blackjack CHAGOAD Edition is to develop a fun type of Blackjack application that provides entertainment and learning while introducing a new gameplay mechanic using the CHAGOAD Card. The project’s goal is also to strengthen the developers' understanding of Object Oriented Programming by applying concepts such as classes, objects, attributes, methods, and relationships in a functional program.
